@@ -1,5 +1,5 @@
 body{
-    background-color: aliceblue;  
+    background-color: black;  
 }
 
 .cerrar{
@@ -19,7 +19,7 @@ height: 100px;
 }
 
 .cartero{
-    background-color: darkred;
+    background-color: darkcyan;
     border: 2px dashed;
     text-align: center;
     font-style: italic;
