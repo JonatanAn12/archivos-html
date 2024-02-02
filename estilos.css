@@ -1,0 +1,35 @@
+body{
+    background-color: aliceblue;  
+}
+
+.cerrar{
+display: flex;
+flex-direction: column;
+gap: 20px;
+width: 200px;
+height: 100px;
+}
+
+.container{
+    background-size: darkcyan;
+    border: 2px dashed;
+    text-align: center;
+    font-style: italic;
+
+}
+
+.cartero{
+    background-color: darkred;
+    border: 2px dashed;
+    text-align: center;
+    font-style: italic;
+    
+    
+}
+#object{
+    background-color: blue;
+    border: 2px dashed;
+    text-align: center;
+    font-style: italic;
+
+}
